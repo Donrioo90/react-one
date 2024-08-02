@@ -12,6 +12,7 @@ function Login(props) {
 }
 
 // Logout Component
+// compo
 function Logout(props) {
   return <button onClick={props.clickFunc}>Logout</button>;
 }
